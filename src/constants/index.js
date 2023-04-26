@@ -198,7 +198,7 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Quiz-app",
     description:
       "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
     tags: [
@@ -216,10 +216,10 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Amankumar2020/Quiz-app",
   },
   {
-    name: "Job IT",
+    name: "Food-landing",
     description:
       "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
     tags: [
@@ -237,7 +237,7 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Amankumar2020/Food-landing",
   },
   {
     name: "Trip Guide",
@@ -263,3 +263,4 @@ const projects = [
 ];
 
 export { services, technologies, experiences, testimonials, projects };
+
